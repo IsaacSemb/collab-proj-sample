@@ -15,3 +15,6 @@ to commit changes
 to check for if you need to commit something ie you staged but didnt commit
     git status
 
+to save work to github
+    git push -u origin main
+

@@ -1,7 +1,14 @@
 .
 |-- client
+|   |-- index.html
+|   |-- scripts.js
+|   `-- styles.css
 |-- read_me.txt
+|-- scripts.js
 |-- server
+|   |-- app.py
+|   `-- flowchart.ipynb
+|-- styles.css
 `-- tree.txt
 
-2 directories, 2 files
+2 directories, 9 files
