@@ -21,3 +21,6 @@ to check for if you need to commit something ie you staged but didnt commit
 to save work to github
     git push -u origin main
 
+to clone a remote repo from the internet 
+    git clone <repo_link>
+    
