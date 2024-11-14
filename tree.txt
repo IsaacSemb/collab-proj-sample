@@ -1,0 +1,7 @@
+.
+|-- client
+|-- read_me.txt
+|-- server
+`-- tree.txt
+
+2 directories, 2 files
