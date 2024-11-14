@@ -1,4 +1,7 @@
 
+repository
+https://github.com/IsaacSemb/collab-proj-sample.git
+
 i have started using git
 
 to initiallise git in directory
